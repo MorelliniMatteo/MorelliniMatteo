@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morellinimatteo" alt="morellinimatteo" /></a> </p>
 
-- 🔭 I’m currently working on [Modello-AI](https://github.com/MorelliniMatteo/Modello-AI)
+- 🔭 I’m currently working on [Modello-AI](https://github.com/MorelliniMatteo/ModelloAI)
 
 - 🌱 I’m currently learning **How to create an AI, with differents methods**
 
