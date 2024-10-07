@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **How to create an AI, with differents methods**
 
-- 📫 How to reach me **morellinimatteo@gmail.com**
+- 📫 How to reach me **morellinimatteo02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
